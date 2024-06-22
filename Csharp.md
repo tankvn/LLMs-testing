@@ -21,6 +21,7 @@ dotnet run
 dotnet new mstest -o LeetcodeTest
 dotnet new nunit -o LeetcodeTest
 dotnet new xunit -o LeetcodeTest
+dotnet sln add ./LeetcodeTest/LeetcodeTest.csproj
 dotnet add ./LeetcodeTest/LeetcodeTest.csproj reference ./Leetcode/Leetcode.csproj
 dotnet test
 ```

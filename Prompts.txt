@@ -1,0 +1,5 @@
+Hi, this is a coding interview. I will give you a problem statement with sample test cases and a code snippet. I expect you to write the most effective working code using C#. Here is the problem statement:
+
+<problem statement>
+
+Please do not alter function signature(s) in the code snippet. Please output only valid source code which could be run as-is without any fixes, improvements or changes. Good luck!
