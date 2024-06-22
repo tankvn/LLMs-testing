@@ -1,5 +1,5 @@
 using NUnit.Framework;
-using LLM;
+using Leetcode;
 
 namespace LeetcodeTest;
 
